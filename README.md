@@ -8,12 +8,12 @@
 使用 pip 安裝：
 
 ```sh
-pip install dd-tools
+pip install dd-tool
 
 
 
 ```python
-from dd-tools import download_google_images
+from dd-tool import download_google_images
 
 download_google_images("query", num_images)
 
@@ -24,4 +24,4 @@ download_google_images("query", num_images)
 
 - 豬嘎嘎 (@piggaga)
 
-"# dd-tools" 
+"# dd-tool" 
